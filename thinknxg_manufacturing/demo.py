@@ -19,6 +19,7 @@ Status without a console (log in as System Manager, open in the browser):
 import csv
 import os
 import re
+from contextlib import contextmanager
 
 import frappe
 
@@ -110,6 +111,26 @@ def remap_sales_orders(text, names):
 
 
 # --------------------------------------------------------------------------- import
+
+
+@contextmanager
+def _import_allowed(doctype):
+    """Data Import refuses doctypes without 'Allow Import' (e.g. Workstation Operating
+    Component). Switch it on for the duration of the import, then restore."""
+    if frappe.get_meta(doctype).allow_import:
+        yield
+        return
+    from frappe.custom.doctype.property_setter.property_setter import make_property_setter
+
+    make_property_setter(doctype, None, "allow_import", 1, "Check", for_doctype=True, validate_fields_for_doctype=False)
+    frappe.db.commit()
+    frappe.clear_cache(doctype=doctype)
+    try:
+        yield
+    finally:
+        frappe.db.delete("Property Setter", {"doc_type": doctype, "property": "allow_import"})
+        frappe.db.commit()
+        frappe.clear_cache(doctype=doctype)
 
 
 def _run_import(step, content):
@@ -214,7 +235,8 @@ def load(start_step=0, retry_step=None):
             content = remap_sales_orders(content.decode("utf-8"), names).encode("utf-8")
 
         try:
-            name = _run_import(step, content)
+            with _import_allowed(step.doctype):
+                name = _run_import(step, content)
             ok, detail, status = _evaluate(step, name)
         except Exception:
             frappe.db.rollback()
@@ -277,7 +299,7 @@ def autoload():
         frappe.log_error(title="KSSB demo autoload could not queue the loader")
 
 
-@frappe.whitelist(methods=["POST"])
+@frappe.whitelist()
 def start(retry_step=None):
     """Queue the loader by hand (System Manager)."""
     frappe.only_for("System Manager")
