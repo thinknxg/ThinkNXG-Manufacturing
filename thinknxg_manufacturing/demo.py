@@ -277,7 +277,7 @@ def autoload():
         frappe.log_error(title="KSSB demo autoload could not queue the loader")
 
 
-@frappe.whitelist(methods=["POST"])
+@frappe.whitelist()
 def start(retry_step=None):
     """Queue the loader by hand (System Manager)."""
     frappe.only_for("System Manager")
