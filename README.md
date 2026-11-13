@@ -111,3 +111,9 @@ Run on the generated files with `tools/validate.py` and `tools/stocksim.py`:
 
 ## 6. Regenerating
 `python3 tools/gen.py ./csv` rewrites all CSVs plus `manifest.json` / `events.json` one level up (edit the data tables in the script to change items, rates, parties or dates). `tools/validate.py ./csv` needs `ERPNEXT_APP` and `FRAPPE_APP` pointing at v16 checkouts (e.g. `.../erpnext/erpnext`, `.../frappe/frappe`); `tools/stocksim.py events.json` re-runs the stock check.
+
+## 7. Installing as a Frappe app (v16)
+    bench get-app https://github.com/thinknxg/ThinkNXG-Manufacturing --branch make-installable-app
+    bench --site <fresh-site> install-app thinknxg_manufacturing
+    bench --site <fresh-site> execute thinknxg_manufacturing.demo.load
+The loader follows `IMPORT_ORDER.csv`, checks counts after every step and stops on the first mismatch. Resume with `--kwargs "{'start_step': N}"`. Data files live in `thinknxg_manufacturing/data/`.
