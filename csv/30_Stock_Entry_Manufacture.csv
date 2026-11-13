@@ -1,0 +1,23 @@
+﻿naming_series,stock_entry_type,purpose,company,posting_date,posting_time,set_posting_time,from_bom,bom_no,fg_completed_qty,use_multi_level_bom,from_warehouse,to_warehouse,items.item_code,items.qty,items.s_warehouse,items.uom,items.stock_uom,items.conversion_factor,items.transfer_qty,items.t_warehouse,items.is_finished_item,additional_costs.expense_account,additional_costs.description,additional_costs.amount
+MAT-STE-.YYYY.-,Manufacture,Manufacture,KREATAO Structural Steel & Building Systems LLC,2026-10-08,09:00:00,1,1,BOM-FG-PURLIN-Z200-001,300,0,Steel Yard - KSSB,Finished Goods - KSSB,RM-ZP-200,1800,Steel Yard - KSSB,Meter,Meter,1,1800,,,Expenses Included In Valuation - KSSB,"Workshop conversion cost (labour, machine, power)",3000
+,,,,,,,,,,,,,FG-PURLIN-Z200,300,,Nos,Nos,1,300,Finished Goods - KSSB,1,,,
+MAT-STE-.YYYY.-,Manufacture,Manufacture,KREATAO Structural Steel & Building Systems LLC,2026-10-15,16:00:00,1,1,BOM-FG-ROOF-TR-05-001,2000,0,Steel Yard - KSSB,Finished Goods - KSSB,RM-PPGL-05,8500,Steel Yard - KSSB,Kg,Kg,1,8500,,,Expenses Included In Valuation - KSSB,"Workshop conversion cost (labour, machine, power)",10833.33
+,,,,,,,,,,,,,FG-ROOF-TR-05,2000,,Square Meter,Square Meter,1,2000,Finished Goods - KSSB,1,,,
+MAT-STE-.YYYY.-,Manufacture,Manufacture,KREATAO Structural Steel & Building Systems LLC,2026-10-20,10:00:00,1,1,BOM-SA-BASEPLATE-001,40,0,Steel Yard - KSSB,Work In Progress - KSSB,RM-PL-20,1008,Steel Yard - KSSB,Kg,Kg,1,1008,,,Expenses Included In Valuation - KSSB,"Workshop conversion cost (labour, machine, power)",3140
+,,,,,,,,,,,,,RM-PL-10,80,Steel Yard - KSSB,Kg,Kg,1,80,,,,,
+,,,,,,,,,,,,,RM-WIRE-ER70,6,Stores - KSSB,Kg,Kg,1,6,,,,,
+,,,,,,,,,,,,,SA-BASEPLATE,40,,Nos,Nos,1,40,Work In Progress - KSSB,1,,,
+MAT-STE-.YYYY.-,Manufacture,Manufacture,KREATAO Structural Steel & Building Systems LLC,2026-10-22,11:00:00,1,1,BOM-FG-STAIR-STD-001,8,0,Steel Yard - KSSB,Finished Goods - KSSB,SA-STRINGER,8,Work In Progress - KSSB,Set,Set,1,8,,,Expenses Included In Valuation - KSSB,"Workshop conversion cost (labour, machine, power)",4466.67
+,,,,,,,,,,,,,RM-PL-06,680,Steel Yard - KSSB,Kg,Kg,1,680,,,,,
+,,,,,,,,,,,,,RM-ANG-75,176,Steel Yard - KSSB,Kg,Kg,1,176,,,,,
+,,,,,,,,,,,,,RM-FB-50,112,Steel Yard - KSSB,Kg,Kg,1,112,,,,,
+,,,,,,,,,,,,,RM-BOLT-M16,128,Stores - KSSB,Nos,Nos,1,128,,,,,
+,,,,,,,,,,,,,RM-WIRE-ER70,9.6,Stores - KSSB,Kg,Kg,1,9.6,,,,,
+,,,,,,,,,,,,,RM-PRIMER-ZP,24,Stores - KSSB,Litre,Litre,1,24,,,,,
+,,,,,,,,,,,,,RM-EPOXY-INT,16,Stores - KSSB,Litre,Litre,1,16,,,,,
+,,,,,,,,,,,,,FG-STAIR-STD,8,,Nos,Nos,1,8,Finished Goods - KSSB,1,,,
+MAT-STE-.YYYY.-,Manufacture,Manufacture,KREATAO Structural Steel & Building Systems LLC,2026-11-05,10:30:00,1,1,BOM-SA-ENDPLATE-001,60,0,Steel Yard - KSSB,Work In Progress - KSSB,RM-PL-16,990,Steel Yard - KSSB,Kg,Kg,1,990,,,Expenses Included In Valuation - KSSB,"Workshop conversion cost (labour, machine, power)",3000
+,,,,,,,,,,,,,RM-WIRE-ER70,6,Stores - KSSB,Kg,Kg,1,6,,,,,
+,,,,,,,,,,,,,SA-ENDPLATE,60,,Nos,Nos,1,60,Work In Progress - KSSB,1,,,
+MAT-STE-.YYYY.-,Manufacture,Manufacture,KREATAO Structural Steel & Building Systems LLC,2026-11-09,09:00:00,1,1,BOM-FG-PURLIN-Z200-001,400,0,Steel Yard - KSSB,Finished Goods - KSSB,RM-ZP-200,2400,Steel Yard - KSSB,Meter,Meter,1,2400,,,Expenses Included In Valuation - KSSB,"Workshop conversion cost (labour, machine, power)",4000
+,,,,,,,,,,,,,FG-PURLIN-Z200,400,,Nos,Nos,1,400,Finished Goods - KSSB,1,,,

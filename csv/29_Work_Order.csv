@@ -1,0 +1,9 @@
+﻿naming_series,production_item,bom_no,qty,company,use_multi_level_bom,fg_warehouse,wip_warehouse,planned_start_date,planned_end_date,status,sales_order
+MFG-WO-.YYYY.-,FG-PEB-FRAME-30,BOM-FG-PEB-FRAME-30-001,6,KREATAO Structural Steel & Building Systems LLC,1,Finished Goods - KSSB,Work In Progress - KSSB,2026-11-16 07:30:00,2026-12-08 17:30:00,Draft,SAL-ORD-2026-00001
+MFG-WO-.YYYY.-,FG-MEZZ-BEAM-12,BOM-FG-MEZZ-BEAM-12-001,14,KREATAO Structural Steel & Building Systems LLC,1,Finished Goods - KSSB,Work In Progress - KSSB,2026-11-23 07:30:00,2026-12-18 17:30:00,Draft,SAL-ORD-2026-00002
+MFG-WO-.YYYY.-,FG-ROOF-TRUSS-24,BOM-FG-ROOF-TRUSS-24-001,4,KREATAO Structural Steel & Building Systems LLC,1,Finished Goods - KSSB,Work In Progress - KSSB,2026-11-18 07:30:00,2026-12-04 17:30:00,Draft,SAL-ORD-2026-00003
+MFG-WO-.YYYY.-,FG-CRANE-GIRDER-10T,BOM-FG-CRANE-GIRDER-10T-001,2,KREATAO Structural Steel & Building Systems LLC,1,Finished Goods - KSSB,Work In Progress - KSSB,2026-12-07 07:30:00,2026-12-30 17:30:00,Draft,SAL-ORD-2026-00004
+MFG-WO-.YYYY.-,FG-PIPE-RACK-6M,BOM-FG-PIPE-RACK-6M-001,5,KREATAO Structural Steel & Building Systems LLC,1,Finished Goods - KSSB,Work In Progress - KSSB,2026-12-01 07:30:00,2026-12-28 17:30:00,Draft,SAL-ORD-2026-00005
+MFG-WO-.YYYY.-,FG-PLAT-ACCESS,BOM-FG-PLAT-ACCESS-001,3,KREATAO Structural Steel & Building Systems LLC,1,Finished Goods - KSSB,Work In Progress - KSSB,2026-12-14 07:30:00,2026-12-24 17:30:00,Draft,SAL-ORD-2026-00005
+MFG-WO-.YYYY.-,FG-STAIR-STD,BOM-FG-STAIR-STD-001,10,KREATAO Structural Steel & Building Systems LLC,0,Finished Goods - KSSB,Work In Progress - KSSB,2026-11-17 07:30:00,2026-11-26 17:30:00,Draft,
+MFG-WO-.YYYY.-,FG-PURLIN-Z200,BOM-FG-PURLIN-Z200-001,400,KREATAO Structural Steel & Building Systems LLC,0,Finished Goods - KSSB,Work In Progress - KSSB,2026-11-19 07:30:00,2026-11-23 17:30:00,Draft,

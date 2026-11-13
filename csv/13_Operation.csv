@@ -1,0 +1,10 @@
+﻿name,workstation,description
+Cutting & Profiling,CNC Plasma Cutting Line,Plasma/oxy profile cutting of plates and section cut-to-length
+Drilling & Punching,Beam Drilling & Punching Line,Bolt-hole drilling and punching per shop drawing
+Roll Forming,Roll Forming Line,Roll forming of trapezoidal roofing/cladding profile
+Fit-Up,Fit-Up Bay 1,"Assembly, alignment and tack welding"
+Welding,Welding Bay 1,Full/partial penetration and fillet welding (MIG/SAW)
+Shot Blasting,Shot Blasting Booth,Abrasive blast cleaning to Sa 2.5
+Painting,Paint Booth 1,Primer / intermediate / finish coat application and DFT check
+Final Assembly,Final Assembly Yard,"Match-marking, bolting of sub-assemblies, packing"
+Quality Inspection,QC Inspection Bench,"Dimensional, weld visual / NDT and coating inspection"

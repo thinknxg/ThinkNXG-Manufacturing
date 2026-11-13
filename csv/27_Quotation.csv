@@ -1,0 +1,10 @@
+﻿quotation_to,party_name,transaction_date,valid_till,order_type,company,currency,conversion_rate,selling_price_list,price_list_currency,plc_conversion_rate,naming_series,taxes_and_charges,items.item_code,items.qty,items.rate,items.uom,taxes.charge_type,taxes.account_head,taxes.description,taxes.rate,taxes.cost_center
+Customer,Sahara Industrial Parks Development LLC,2026-10-05,2026-11-04,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-QTN-.YYYY.-,UAE VAT 5% - KSSB,FG-PEB-FRAME-30,6,16415,Nos,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+,,,,,,,,,,,,,SRV-DETAIL,24,120,Nos,,,,,
+Customer,Al Reef Logistics & Warehousing LLC,2026-10-08,2026-11-07,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-QTN-.YYYY.-,UAE VAT 5% - KSSB,FG-MEZZ-BEAM-12,14,3967,Nos,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+,,,,,,,,,,,,,SRV-ERECT,18,780,Tonne,,,,,
+Customer,Marina Gate Infrastructure Projects LLC,2026-10-20,2026-11-19,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-QTN-.YYYY.-,UAE VAT 5% - KSSB,FG-PIPE-RACK-6M,8,11211,Nos,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+Customer,Emirate Municipal Projects Office (Demo),2026-11-02,2026-12-02,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-QTN-.YYYY.-,UAE VAT 5% - KSSB,FG-ROOF-TRUSS-24,10,4825,Nos,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+,,,,,,,,,,,,,FG-ROOF-TR-05,3000,33.06,Square Meter,,,,,
+Customer,Al Batinah Steel Works SAOC,2026-11-06,2026-12-06,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-QTN-.YYYY.-,UAE VAT Zero - KSSB,FG-PURLIN-Z200,600,167.9,Nos,On Net Total,VAT Zero - KSSB,VAT 0% (Export),0,Main - KSSB
+,,,,,,,,,,,,,FG-ROOF-TR-05,1500,33.06,Square Meter,,,,,

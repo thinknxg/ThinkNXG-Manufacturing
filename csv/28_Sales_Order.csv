@@ -1,0 +1,13 @@
+﻿customer,transaction_date,delivery_date,order_type,company,currency,conversion_rate,selling_price_list,price_list_currency,plc_conversion_rate,naming_series,po_no,po_date,taxes_and_charges,items.item_code,items.qty,items.rate,items.uom,items.delivery_date,items.warehouse,taxes.charge_type,taxes.account_head,taxes.description,taxes.rate,taxes.cost_center
+Sahara Industrial Parks Development LLC,2026-10-12,2026-12-20,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-ORD-.YYYY.-,SIP/PO/2026/0412,2026-10-12,UAE VAT 5% - KSSB,FG-PEB-FRAME-30,6,16415,Nos,2026-12-20,Finished Goods - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+,,,,,,,,,,,,,,SRV-DETAIL,24,120,Nos,2026-12-20,,,,,,
+Al Reef Logistics & Warehousing LLC,2026-10-15,2027-01-05,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-ORD-.YYYY.-,ARL-MEZZ-8841,2026-10-15,UAE VAT 5% - KSSB,FG-MEZZ-BEAM-12,14,3967,Nos,2027-01-05,Finished Goods - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+,,,,,,,,,,,,,,SRV-ERECT,18,780,Tonne,2027-01-05,,,,,,
+Crescent Agro Processing FZC,2026-10-19,2026-12-15,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-ORD-.YYYY.-,CAP-26-0097,2026-10-19,UAE VAT 5% - KSSB,FG-ROOF-TRUSS-24,4,4825,Nos,2026-12-15,Finished Goods - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+,,,,,,,,,,,,,,FG-ROOF-TR-05,900,33.06,Square Meter,2026-12-15,Finished Goods - KSSB,,,,,
+Gulf Horizon Petrochemical Services LLC,2026-10-21,2027-01-20,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-ORD-.YYYY.-,GHP-RUW-55120,2026-10-21,UAE VAT 5% - KSSB,FG-CRANE-GIRDER-10T,2,6313,Nos,2027-01-20,Finished Goods - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+,,,,,,,,,,,,,,SRV-TRANSPORT,2,850,Nos,2027-01-20,,,,,,
+Burj Al Noor Contracting LLC,2026-10-26,2027-01-12,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-ORD-.YYYY.-,BAN/KSSB/0233,2026-10-26,UAE VAT 5% - KSSB,FG-PIPE-RACK-6M,5,11211,Nos,2027-01-12,Finished Goods - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+,,,,,,,,,,,,,,FG-PLAT-ACCESS,3,2429,Nos,2027-01-12,Finished Goods - KSSB,,,,,
+Northern Emirates Steel Erectors LLC,2026-11-02,2026-11-18,Sales,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Selling,AED,1,SAL-ORD-.YYYY.-,NESE-PO-7714,2026-11-02,UAE VAT 5% - KSSB,FG-PURLIN-Z200,200,167.9,Nos,2026-11-18,Finished Goods - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB
+,,,,,,,,,,,,,,FG-STAIR-STD,4,2242,Nos,2026-11-18,Finished Goods - KSSB,,,,,

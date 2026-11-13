@@ -1,0 +1,31 @@
+﻿workstation_name,workstation_type,production_capacity,description,workstation_costs.operating_component,workstation_costs.operating_cost,working_hours.start_time,working_hours.end_time,working_hours.enabled
+CNC Plasma Cutting Line,CNC Cutting,1,CNC Plasma Cutting Line - KREATAO Sharjah workshop (demo),Electricity & Utilities,27,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,81,13:00:00,17:30:00,1
+,,,,Direct Labour,72,,,
+Beam Drilling & Punching Line,Drilling & Punching,1,Beam Drilling & Punching Line - KREATAO Sharjah workshop (demo),Electricity & Utilities,22.5,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,67.5,13:00:00,17:30:00,1
+,,,,Direct Labour,60,,,
+Roll Forming Line,Roll Forming,1,Roll Forming Line - KREATAO Sharjah workshop (demo),Electricity & Utilities,19.5,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,58.5,13:00:00,17:30:00,1
+,,,,Direct Labour,52,,,
+Fit-Up Bay 1,Fabrication Bay,1,Fit-Up Bay 1 - KREATAO Sharjah workshop (demo),Electricity & Utilities,13.5,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,40.5,13:00:00,17:30:00,1
+,,,,Direct Labour,36,,,
+Welding Bay 1,Welding Bay,1,Welding Bay 1 - KREATAO Sharjah workshop (demo),Electricity & Utilities,16.5,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,49.5,13:00:00,17:30:00,1
+,,,,Direct Labour,44,,,
+Welding Bay 2,Welding Bay,1,Welding Bay 2 - KREATAO Sharjah workshop (demo),Electricity & Utilities,16.5,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,49.5,13:00:00,17:30:00,1
+,,,,Direct Labour,44,,,
+Shot Blasting Booth,Surface Treatment,1,Shot Blasting Booth - KREATAO Sharjah workshop (demo),Electricity & Utilities,21,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,63,13:00:00,17:30:00,1
+,,,,Direct Labour,56,,,
+Paint Booth 1,Surface Treatment,1,Paint Booth 1 - KREATAO Sharjah workshop (demo),Electricity & Utilities,18,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,54,13:00:00,17:30:00,1
+,,,,Direct Labour,48,,,
+Final Assembly Yard,Fabrication Bay,1,Final Assembly Yard - KREATAO Sharjah workshop (demo),Electricity & Utilities,12,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,36,13:00:00,17:30:00,1
+,,,,Direct Labour,32,,,
+QC Inspection Bench,Quality Control,1,QC Inspection Bench - KREATAO Sharjah workshop (demo),Electricity & Utilities,10.5,07:00:00,12:00:00,1
+,,,,Machine Running & Depreciation,31.5,13:00:00,17:30:00,1
+,,,,Direct Labour,28,,,

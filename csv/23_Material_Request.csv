@@ -1,0 +1,9 @@
+﻿material_request_type,company,transaction_date,schedule_date,naming_series,items.item_code,items.qty,items.uom,items.schedule_date,items.warehouse
+Purchase,KREATAO Structural Steel & Building Systems LLC,2026-11-03,2026-11-24,MAT-MR-.YYYY.-,RM-HB-300,20000,Kg,2026-11-24,Steel Yard - KSSB
+,,,,,RM-IPE-200,8000,Kg,2026-11-24,Steel Yard - KSSB
+,,,,,RM-UC-203,6000,Kg,2026-11-24,Steel Yard - KSSB
+,,,,,RM-PL-10,5000,Kg,2026-11-24,Steel Yard - KSSB
+Purchase,KREATAO Structural Steel & Building Systems LLC,2026-11-05,2026-11-20,MAT-MR-.YYYY.-,RM-BOLT-M20,1200,Nos,2026-11-20,Stores - KSSB
+,,,,,RM-ANCH-M24,300,Nos,2026-11-20,Stores - KSSB
+,,,,,RM-PRIMER-ZP,500,Litre,2026-11-20,Stores - KSSB
+,,,,,RM-EPOXY-INT,300,Litre,2026-11-20,Stores - KSSB

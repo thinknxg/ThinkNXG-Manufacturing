@@ -1,0 +1,19 @@
+﻿first_name,last_name,designation,status,company_name,email_ids.email_id,email_ids.is_primary,phone_nos.phone,phone_nos.is_primary_mobile_no,links.link_doctype,links.link_name
+Omar,Al Suwaidi,Sales Manager,Passive,Falcon Steel Trading LLC,omar.suwaidi@falcon.example,1,+971 50 555 0210,1,Supplier,Falcon Steel Trading LLC
+Priya,Menon,Key Accounts,Passive,Emirates Coil & Sheet Industries FZE,priya.menon@emirates.example,1,+971 50 555 0211,1,Supplier,Emirates Coil & Sheet Industries FZE
+Imran,Qureshi,Director,Passive,Desert Rose Fasteners LLC,imran.qureshi@desert.example,1,+971 50 555 0212,1,Supplier,Desert Rose Fasteners LLC
+Sunil,Varghese,Sales Executive,Passive,Pearl Weld Supplies LLC,sunil.varghese@pearl.example,1,+971 50 555 0213,1,Supplier,Pearl Weld Supplies LLC
+Layla,Haddad,Technical Sales,Passive,Oasis Protective Coatings LLC,layla.haddad@oasis.example,1,+971 50 555 0214,1,Supplier,Oasis Protective Coatings LLC
+Rashid,Al Nuaimi,Operations Manager,Passive,Al Mirage Galvanizing & Metal Treatment LLC,rashid.nuaimi@al.example,1,+971 50 555 0215,1,Supplier,Al Mirage Galvanizing & Metal Treatment LLC
+Vikram,Nair,Fleet Manager,Passive,Horizon Heavy Haulage LLC,vikram.nair@horizon.example,1,+971 50 555 0216,1,Supplier,Horizon Heavy Haulage LLC
+Hassan,Karim,Account Manager,Passive,Sandstorm Industrial Gases LLC,hassan.karim@sandstorm.example,1,+971 50 555 0217,1,Supplier,Sandstorm Industrial Gases LLC
+Khalid,Mansoor,Procurement Manager,Passive,Burj Al Noor Contracting LLC,khalid.mansoor@burj.example,1,+971 55 555 0410,1,Customer,Burj Al Noor Contracting LLC
+Noura,Al Zaabi,Project Director,Passive,Sahara Industrial Parks Development LLC,noura.zaabi@sahara.example,1,+971 55 555 0411,1,Customer,Sahara Industrial Parks Development LLC
+Faisal,Al Dhaheri,Contracts Engineer,Passive,Emirate Municipal Projects Office (Demo),faisal.dhaheri@emirate.example,1,+971 55 555 0412,1,Customer,Emirate Municipal Projects Office (Demo)
+Sameer,Joshi,Facilities Head,Passive,Al Reef Logistics & Warehousing LLC,sameer.joshi@al.example,1,+971 55 555 0413,1,Customer,Al Reef Logistics & Warehousing LLC
+Daniel,Foster,Package Engineer,Passive,Gulf Horizon Petrochemical Services LLC,daniel.foster@gulf.example,1,+971 55 555 0414,1,Customer,Gulf Horizon Petrochemical Services LLC
+Mariam,Al Shamsi,Plant Manager,Passive,Crescent Agro Processing FZC,mariam.shamsi@crescent.example,1,+971 55 555 0415,1,Customer,Crescent Agro Processing FZC
+Abdul,Rahman Siddiqui,Purchase Lead,Passive,Northern Emirates Steel Erectors LLC,abdul.siddiqui@northern.example,1,+971 55 555 0416,1,Customer,Northern Emirates Steel Erectors LLC
+Ravi,Shankar,Operations Director,Passive,Dune Cold Storage LLC,ravi.shankar@dune.example,1,+971 55 555 0417,1,Customer,Dune Cold Storage LLC
+Elena,Petrova,Procurement Specialist,Passive,Marina Gate Infrastructure Projects LLC,elena.petrova@marina.example,1,+971 55 555 0418,1,Customer,Marina Gate Infrastructure Projects LLC
+Salim,Al Harthy,Purchasing Manager,Passive,Al Batinah Steel Works SAOC,salim.harthy@al.example,1,+971 55 555 0419,1,Customer,Al Batinah Steel Works SAOC

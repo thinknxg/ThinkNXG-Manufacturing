@@ -1,0 +1,34 @@
+﻿purpose,naming_series,company,posting_date,posting_time,set_posting_time,expense_account,cost_center,items.item_code,items.warehouse,items.qty,items.valuation_rate
+Opening Stock,MAT-RECO-.YYYY.-,KREATAO Structural Steel & Building Systems LLC,2026-10-01,08:00:00,1,Temporary Opening - KSSB,Main - KSSB,RM-HB-300,Steel Yard - KSSB,14000,3.35
+,,,,,,,,RM-IPE-200,Steel Yard - KSSB,9000,3.3
+,,,,,,,,RM-UB-406,Steel Yard - KSSB,11000,3.4
+,,,,,,,,RM-UC-203,Steel Yard - KSSB,7000,3.4
+,,,,,,,,RM-PFC-150,Steel Yard - KSSB,6000,3.25
+,,,,,,,,RM-ANG-75,Steel Yard - KSSB,5000,3.2
+,,,,,,,,RM-RHS-100,Steel Yard - KSSB,5000,3.65
+,,,,,,,,RM-PL-06,Steel Yard - KSSB,4500,3.15
+,,,,,,,,RM-PL-10,Steel Yard - KSSB,7000,3.15
+,,,,,,,,RM-PL-16,Steel Yard - KSSB,5000,3.2
+,,,,,,,,RM-PL-20,Steel Yard - KSSB,6000,3.2
+,,,,,,,,RM-FB-50,Steel Yard - KSSB,1500,3.1
+,,,,,,,,RM-ZP-200,Steel Yard - KSSB,4000,20.9
+,,,,,,,,RM-PPGL-05,Steel Yard - KSSB,9000,4.9
+,,,,,,,,RM-BOLT-M20,Stores - KSSB,1500,3.8
+,,,,,,,,RM-BOLT-M16,Stores - KSSB,800,1.6
+,,,,,,,,RM-ANCH-M24,Stores - KSSB,400,14.5
+,,,,,,,,RM-SCR-TEK,Stores - KSSB,20000,0.12
+,,,,,,,,RM-WIRE-ER70,Stores - KSSB,600,8.2
+,,,,,,,,RM-ELEC-7018,Stores - KSSB,150,9.5
+,,,,,,,,RM-GAS-MIX,Stores - KSSB,40,140
+,,,,,,,,RM-PRIMER-ZP,Stores - KSSB,900,22
+,,,,,,,,RM-EPOXY-INT,Stores - KSSB,500,31
+,,,,,,,,RM-PU-FIN,Stores - KSSB,300,38
+,,,,,,,,RM-THINNER,Stores - KSSB,200,9
+,,,,,,,,RM-GRIT-G25,Stores - KSSB,4000,1.1
+,,,,,,,,CN-DISC-125,Stores - KSSB,300,6.5
+,,,,,,,,SA-BASEPLATE,Work In Progress - KSSB,12,166.67
+,,,,,,,,SA-ENDPLATE,Work In Progress - KSSB,20,103.62
+,,,,,,,,SA-STRINGER,Work In Progress - KSSB,10,690
+,,,,,,,,FG-PURLIN-Z200,Finished Goods - KSSB,200,135.4
+,,,,,,,,FG-ROOF-TR-05,Finished Goods - KSSB,1500,26.24
+,,,,,,,,FG-STAIR-STD,Finished Goods - KSSB,6,1793.32

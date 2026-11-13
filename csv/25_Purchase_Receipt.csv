@@ -1,0 +1,17 @@
+﻿supplier,posting_date,posting_time,set_posting_time,company,currency,conversion_rate,buying_price_list,price_list_currency,plc_conversion_rate,naming_series,items.item_code,items.qty,items.rate,items.uom,items.stock_uom,items.conversion_factor,items.warehouse
+Falcon Steel Trading LLC,2026-10-14,10:00:00,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,MAT-PRE-.YYYY.-,RM-UB-406,4000,3.4,Kg,Kg,1,Steel Yard - KSSB
+,,,,,,,,,,,RM-PL-16,3000,3.2,Kg,Kg,1,Steel Yard - KSSB
+,,,,,,,,,,,RM-PL-20,2000,3.2,Kg,Kg,1,Steel Yard - KSSB
+Emirates Coil & Sheet Industries FZE,2026-10-14,14:00:00,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,MAT-PRE-.YYYY.-,RM-PPGL-05,12000,4.9,Kg,Kg,1,Steel Yard - KSSB
+,,,,,,,,,,,RM-ZP-200,3000,20.9,Meter,Meter,1,Steel Yard - KSSB
+Pearl Weld Supplies LLC,2026-10-28,09:30:00,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,MAT-PRE-.YYYY.-,RM-WIRE-ER70,300,8.2,Kg,Kg,1,Stores - KSSB
+,,,,,,,,,,,RM-ELEC-7018,100,9.5,Kg,Kg,1,Stores - KSSB
+,,,,,,,,,,,RM-GAS-MIX,20,140,Nos,Nos,1,Stores - KSSB
+Desert Rose Fasteners LLC,2026-10-28,11:15:00,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,MAT-PRE-.YYYY.-,RM-BOLT-M20,800,3.8,Nos,Nos,1,Stores - KSSB
+,,,,,,,,,,,RM-BOLT-M16,400,1.6,Nos,Nos,1,Stores - KSSB
+,,,,,,,,,,,RM-ANCH-M24,200,14.5,Nos,Nos,1,Stores - KSSB
+,,,,,,,,,,,RM-SCR-TEK,10000,0.12,Nos,Nos,1,Stores - KSSB
+Oasis Protective Coatings LLC,2026-11-04,15:00:00,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,MAT-PRE-.YYYY.-,RM-PRIMER-ZP,400,22,Litre,Litre,1,Stores - KSSB
+,,,,,,,,,,,RM-EPOXY-INT,200,31,Litre,Litre,1,Stores - KSSB
+,,,,,,,,,,,RM-PU-FIN,100,38,Litre,Litre,1,Stores - KSSB
+,,,,,,,,,,,RM-THINNER,80,9,Litre,Litre,1,Stores - KSSB

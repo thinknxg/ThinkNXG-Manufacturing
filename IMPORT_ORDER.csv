@@ -1,0 +1,34 @@
+Step,File,DocType,Documents,CSV rows,Import Type,Submit After Import,Notes
+0,00_prereq_Fiscal_Year_2026.csv,Fiscal Year,1,1,Insert New Records,No,OPTIONAL - skip if Fiscal Year 2026 already exists (ERPNext setup normally creates it).
+1,01_Company.csv,Company,1,1,Insert New Records,No,"Creating the Company auto-creates the chart of accounts, warehouses (Stores, Work In Progress, Finished Goods, Goods In Transit), Main cost centre and the 'UAE VAT 5%' / 'UAE VAT Zero' tax templates."
+2,02_Account.csv,Account,4,4,Insert New Records,No,
+3,03_Cost_Center.csv,Cost Center,4,4,Insert New Records,No,
+4,04_Warehouse.csv,Warehouse,4,4,Insert New Records,No,Stores / Work In Progress / Finished Goods / Goods In Transit already exist after Company creation.
+5,05_UOM.csv,UOM,2,2,Insert New Records,No,"Kg, Nos, Meter, Square Meter, Litre, Set, Tonne already ship with ERPNext."
+6,06_Item_Group.csv,Item Group,11,11,Insert New Records,No,Raw Material / Products / Services / Sub Assemblies / Consumable are ERPNext defaults.
+7,07_Customer_Group.csv,Customer Group,4,4,Insert New Records,No,
+8,08_Supplier_Group.csv,Supplier Group,5,5,Insert New Records,No,
+9,09_Territory.csv,Territory,8,8,Insert New Records,No,
+10,10_Workstation_Type.csv,Workstation Type,7,7,Insert New Records,No,
+11,11_Workstation_Operating_Component.csv,Workstation Operating Component,3,3,Insert New Records,No,
+12,12_Workstation.csv,Workstation,10,30,Insert New Records,No,
+13,13_Operation.csv,Operation,9,9,Insert New Records,No,Operation uses 'Prompt' naming: the 'name' (ID) column sets the operation name. Imported after the workstations it points to.
+14,14_Item.csv,Item,43,43,Insert New Records,No,"Raw materials, consumables, services, sub-assemblies and finished goods (MTS + MTO). Reorder levels on MTS items and yard stock drive auto Material Requests."
+15,15_Item_Price.csv,Item Price,41,41,Insert New Records,No,
+16,16_Supplier.csv,Supplier,8,8,Insert New Records,No,TRNs are fictional.
+17,17_Customer.csv,Customer,10,10,Insert New Records,No,TRNs are fictional. Last customer is an Omani export customer (zero-rated).
+18,18_Address.csv,Address,18,18,Insert New Records,No,Phones are +971 5xx-series demo numbers; e-mail domains use the reserved .example TLD.
+19,19_Contact.csv,Contact,18,18,Insert New Records,No,
+20,20_BOM_SubAssemblies.csv,BOM,3,8,Insert New Records,YES,Import first; tick 'Submit After Import'. Names are generated as BOM-<ITEM>-001.
+21,21_BOM_FinishedGoods.csv,BOM,9,61,Insert New Records,YES,Import after the sub-assembly BOM file - sub-assembly rows reference BOM-<SA>-001. Tick 'Submit After Import'.
+22,22_Stock_Reconciliation_Opening.csv,Stock Reconciliation,1,33,Insert New Records,YES,Opening balances dated 2026-10-01 against Temporary Opening - KSSB.
+23,23_Material_Request.csv,Material Request,2,8,Insert New Records,YES,Open purchase requisitions (statuses stay 'Pending' until you create POs from them).
+24,24_Purchase_Order.csv,Purchase Order,5,10,Insert New Records,YES,Open POs awaiting receipt (typical 'To Receive and Bill').
+25,25_Purchase_Receipt.csv,Purchase Receipt,5,16,Insert New Records,YES,Goods received into Steel Yard / Stores (direct receipts).
+26,26_Purchase_Invoice.csv,Purchase Invoice,3,4,Insert New Records,YES,One direct stock purchase (update_stock=1) and two service invoices. PR->PI billing links are left for you to demo from the UI.
+27,27_Quotation.csv,Quotation,5,9,Insert New Records,YES,Open quotations (one zero-rated export quotation).
+28,28_Sales_Order.csv,Sales Order,6,12,Insert New Records,YES,Rows 1-5 are Make-to-Order projects (linked to work orders); row 6 is a Make-to-Stock order served from finished-goods stock. The Work Order file references SAL-ORD-2026-00001..00005 - see README if your site already has Sales Orders.
+29,29_Work_Order.csv,Work Order,8,8,Insert New Records,YES,Planned production: 6 MTO work orders (linked to Sales Orders) + 2 MTS replenishment orders. Submitting auto-creates required items and Job Cards from the BOM operations.
+30,30_Stock_Entry_Manufacture.csv,Stock Entry,6,22,Insert New Records,YES,Completed make-to-stock production (finished goods + sub-assemblies) posted as independent Manufacture entries with workshop conversion cost capitalised via Expenses Included In Valuation.
+31,31_Delivery_Note.csv,Delivery Note,2,3,Insert New Records,YES,"Delivered, billing pending ('To Bill')."
+32,32_Sales_Invoice.csv,Sales Invoice,4,5,Insert New Records,YES,Ex-stock catalogue sales (invoice + stock issue in one document). Last invoice is a zero-rated export to Oman.

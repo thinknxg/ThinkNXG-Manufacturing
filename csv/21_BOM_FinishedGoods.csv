@@ -1,0 +1,62 @@
+﻿item,quantity,uom,is_active,is_default,with_operations,company,currency,conversion_rate,rm_cost_as_per,transfer_material_against,set_rate_of_sub_assembly_item_based_on_bom,items.item_code,items.qty,items.uom,items.stock_uom,items.conversion_factor,items.rate,items.include_item_in_manufacturing,items.bom_no,operations.operation,operations.workstation,operations.time_in_mins,operations.hour_rate,operations.sequence_id
+FG-PURLIN-Z200,1,Nos,1,1,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Valuation Rate,Work Order,1,RM-ZP-200,6,Meter,Meter,1,20.9,1,,Drilling & Punching,Beam Drilling & Punching Line,4,150,1
+FG-ROOF-TR-05,1,Square Meter,1,1,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Valuation Rate,Work Order,1,RM-PPGL-05,4.25,Kg,Kg,1,4.9,1,,Roll Forming,Roll Forming Line,2.5,130,1
+FG-STAIR-STD,1,Nos,1,1,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Valuation Rate,Work Order,1,SA-STRINGER,1,Set,Set,1,690,1,BOM-SA-STRINGER-001,Fit-Up,Fit-Up Bay 1,90,90,1
+,,,,,,,,,,,,RM-PL-06,85,Kg,Kg,1,3.15,1,,Welding,Welding Bay 1,120,110,2
+,,,,,,,,,,,,RM-ANG-75,22,Kg,Kg,1,3.2,1,,Painting,Paint Booth 1,60,120,3
+,,,,,,,,,,,,RM-FB-50,14,Kg,Kg,1,3.1,1,,Final Assembly,Final Assembly Yard,45,80,4
+,,,,,,,,,,,,RM-BOLT-M16,16,Nos,Nos,1,1.6,1,,Quality Inspection,QC Inspection Bench,20,70,5
+,,,,,,,,,,,,RM-WIRE-ER70,1.2,Kg,Kg,1,8.2,1,,,,,,
+,,,,,,,,,,,,RM-PRIMER-ZP,3,Litre,Litre,1,22,1,,,,,,
+,,,,,,,,,,,,RM-EPOXY-INT,2,Litre,Litre,1,31,1,,,,,,
+FG-PEB-FRAME-30,1,Nos,1,1,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Valuation Rate,Work Order,1,RM-HB-300,3055,Kg,Kg,1,3.35,1,,Cutting & Profiling,CNC Plasma Cutting Line,90,180,1
+,,,,,,,,,,,,SA-BASEPLATE,2,Nos,Nos,1,166.67,1,BOM-SA-BASEPLATE-001,Drilling & Punching,Beam Drilling & Punching Line,60,150,2
+,,,,,,,,,,,,SA-ENDPLATE,4,Nos,Nos,1,103.62,1,BOM-SA-ENDPLATE-001,Fit-Up,Fit-Up Bay 1,150,90,3
+,,,,,,,,,,,,RM-PL-10,60,Kg,Kg,1,3.15,1,,Welding,Welding Bay 1,240,110,4
+,,,,,,,,,,,,RM-BOLT-M20,32,Nos,Nos,1,3.8,1,,Shot Blasting,Shot Blasting Booth,75,140,5
+,,,,,,,,,,,,RM-ANCH-M24,8,Nos,Nos,1,14.5,1,,Painting,Paint Booth 1,90,120,6
+,,,,,,,,,,,,RM-WIRE-ER70,14,Kg,Kg,1,8.2,1,,Quality Inspection,QC Inspection Bench,30,70,7
+,,,,,,,,,,,,RM-PRIMER-ZP,22,Litre,Litre,1,22,1,,,,,,
+,,,,,,,,,,,,RM-THINNER,2,Litre,Litre,1,9,1,,,,,,
+,,,,,,,,,,,,RM-GRIT-G25,60,Kg,Kg,1,1.1,1,,,,,,
+FG-MEZZ-BEAM-12,1,Nos,1,1,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Valuation Rate,Work Order,1,RM-UB-406,648,Kg,Kg,1,3.4,1,,Cutting & Profiling,CNC Plasma Cutting Line,40,180,1
+,,,,,,,,,,,,SA-ENDPLATE,2,Nos,Nos,1,103.62,1,BOM-SA-ENDPLATE-001,Drilling & Punching,Beam Drilling & Punching Line,30,150,2
+,,,,,,,,,,,,RM-PL-10,20,Kg,Kg,1,3.15,1,,Fit-Up,Fit-Up Bay 1,60,90,3
+,,,,,,,,,,,,RM-BOLT-M20,8,Nos,Nos,1,3.8,1,,Welding,Welding Bay 1,90,110,4
+,,,,,,,,,,,,RM-WIRE-ER70,3,Kg,Kg,1,8.2,1,,Shot Blasting,Shot Blasting Booth,35,140,5
+,,,,,,,,,,,,RM-PRIMER-ZP,6,Litre,Litre,1,22,1,,Painting,Paint Booth 1,40,120,6
+,,,,,,,,,,,,RM-GRIT-G25,15,Kg,Kg,1,1.1,1,,Quality Inspection,QC Inspection Bench,15,70,7
+FG-ROOF-TRUSS-24,1,Nos,1,1,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Valuation Rate,Work Order,1,RM-RHS-100,408,Kg,Kg,1,3.65,1,,Cutting & Profiling,CNC Plasma Cutting Line,80,180,1
+,,,,,,,,,,,,RM-ANG-75,130,Kg,Kg,1,3.2,1,,Fit-Up,Fit-Up Bay 1,180,90,2
+,,,,,,,,,,,,RM-PL-10,45,Kg,Kg,1,3.15,1,,Welding,Welding Bay 1,260,110,3
+,,,,,,,,,,,,SA-ENDPLATE,2,Nos,Nos,1,103.62,1,BOM-SA-ENDPLATE-001,Shot Blasting,Shot Blasting Booth,60,140,4
+,,,,,,,,,,,,RM-BOLT-M16,24,Nos,Nos,1,1.6,1,,Painting,Paint Booth 1,80,120,5
+,,,,,,,,,,,,RM-WIRE-ER70,7,Kg,Kg,1,8.2,1,,Final Assembly,Final Assembly Yard,60,80,6
+,,,,,,,,,,,,RM-PRIMER-ZP,8,Litre,Litre,1,22,1,,Quality Inspection,QC Inspection Bench,25,70,7
+,,,,,,,,,,,,RM-GRIT-G25,30,Kg,Kg,1,1.1,1,,,,,,
+FG-CRANE-GIRDER-10T,1,Nos,1,1,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Valuation Rate,Work Order,1,RM-UB-406,540,Kg,Kg,1,3.4,1,,Cutting & Profiling,CNC Plasma Cutting Line,70,180,1
+,,,,,,,,,,,,RM-PL-16,180,Kg,Kg,1,3.2,1,,Drilling & Punching,Beam Drilling & Punching Line,40,150,2
+,,,,,,,,,,,,RM-PL-10,55,Kg,Kg,1,3.15,1,,Fit-Up,Fit-Up Bay 1,150,90,3
+,,,,,,,,,,,,SA-ENDPLATE,2,Nos,Nos,1,103.62,1,BOM-SA-ENDPLATE-001,Welding,Welding Bay 1,300,110,4
+,,,,,,,,,,,,RM-BOLT-M20,12,Nos,Nos,1,3.8,1,,Shot Blasting,Shot Blasting Booth,70,140,5
+,,,,,,,,,,,,RM-WIRE-ER70,9,Kg,Kg,1,8.2,1,,Painting,Paint Booth 1,120,120,6
+,,,,,,,,,,,,RM-PRIMER-ZP,8,Litre,Litre,1,22,1,,Quality Inspection,QC Inspection Bench,45,70,7
+,,,,,,,,,,,,RM-EPOXY-INT,8,Litre,Litre,1,31,1,,,,,,
+,,,,,,,,,,,,RM-PU-FIN,6,Litre,Litre,1,38,1,,,,,,
+,,,,,,,,,,,,RM-GRIT-G25,25,Kg,Kg,1,1.1,1,,,,,,
+FG-PIPE-RACK-6M,1,Nos,1,1,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Valuation Rate,Work Order,1,RM-UC-203,920,Kg,Kg,1,3.4,1,,Cutting & Profiling,CNC Plasma Cutting Line,100,180,1
+,,,,,,,,,,,,RM-IPE-200,806,Kg,Kg,1,3.3,1,,Drilling & Punching,Beam Drilling & Punching Line,60,150,2
+,,,,,,,,,,,,RM-ANG-75,90,Kg,Kg,1,3.2,1,,Fit-Up,Fit-Up Bay 1,200,90,3
+,,,,,,,,,,,,SA-BASEPLATE,4,Nos,Nos,1,166.67,1,BOM-SA-BASEPLATE-001,Welding,Welding Bay 1,280,110,4
+,,,,,,,,,,,,RM-BOLT-M20,24,Nos,Nos,1,3.8,1,,Shot Blasting,Shot Blasting Booth,90,140,5
+,,,,,,,,,,,,RM-WIRE-ER70,10,Kg,Kg,1,8.2,1,,Painting,Paint Booth 1,100,120,6
+,,,,,,,,,,,,RM-PRIMER-ZP,12,Litre,Litre,1,22,1,,Final Assembly,Final Assembly Yard,60,80,7
+,,,,,,,,,,,,RM-EPOXY-INT,8,Litre,Litre,1,31,1,,Quality Inspection,QC Inspection Bench,30,70,8
+,,,,,,,,,,,,RM-GRIT-G25,45,Kg,Kg,1,1.1,1,,,,,,
+FG-PLAT-ACCESS,1,Nos,1,1,1,KREATAO Structural Steel & Building Systems LLC,AED,1,Valuation Rate,Work Order,1,RM-PFC-150,160,Kg,Kg,1,3.25,1,,Cutting & Profiling,CNC Plasma Cutting Line,45,180,1
+,,,,,,,,,,,,RM-ANG-75,60,Kg,Kg,1,3.2,1,,Fit-Up,Fit-Up Bay 1,80,90,2
+,,,,,,,,,,,,RM-PL-06,120,Kg,Kg,1,3.15,1,,Welding,Welding Bay 1,100,110,3
+,,,,,,,,,,,,RM-BOLT-M16,20,Nos,Nos,1,1.6,1,,Painting,Paint Booth 1,50,120,4
+,,,,,,,,,,,,RM-WIRE-ER70,3,Kg,Kg,1,8.2,1,,Final Assembly,Final Assembly Yard,40,80,5
+,,,,,,,,,,,,RM-PRIMER-ZP,5,Litre,Litre,1,22,1,,Quality Inspection,QC Inspection Bench,15,70,6
+,,,,,,,,,,,,RM-EPOXY-INT,3,Litre,Litre,1,31,1,,,,,,

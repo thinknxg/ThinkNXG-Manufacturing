@@ -1,0 +1,19 @@
+﻿address_title,address_type,address_line1,city,state,country,phone,email_id,is_primary_address,is_shipping_address,links.link_doctype,links.link_name
+Falcon Steel Trading LLC,Billing,Hamriyah Free Zone Rd,Sharjah,Sharjah,United Arab Emirates,+971 6 555 0110,accounts@falcon.example,1,,Supplier,Falcon Steel Trading LLC
+Emirates Coil & Sheet Industries FZE,Billing,"Plot 214, Jebel Ali Industrial Area 1",Dubai,Dubai,United Arab Emirates,+971 6 555 0111,accounts@emirates.example,1,,Supplier,Emirates Coil & Sheet Industries FZE
+Desert Rose Fasteners LLC,Billing,Al Quoz Industrial Area 3,Dubai,Dubai,United Arab Emirates,+971 6 555 0112,accounts@desert.example,1,,Supplier,Desert Rose Fasteners LLC
+Pearl Weld Supplies LLC,Billing,Ajman Industrial Area 2,Ajman,Ajman,United Arab Emirates,+971 6 555 0113,accounts@pearl.example,1,,Supplier,Pearl Weld Supplies LLC
+Oasis Protective Coatings LLC,Billing,Sharjah Industrial Area 17,Sharjah,Sharjah,United Arab Emirates,+971 6 555 0114,accounts@oasis.example,1,,Supplier,Oasis Protective Coatings LLC
+Al Mirage Galvanizing & Metal Treatment LLC,Billing,Al Jurf Industrial Zone 3,Ajman,Ajman,United Arab Emirates,+971 6 555 0115,accounts@al.example,1,,Supplier,Al Mirage Galvanizing & Metal Treatment LLC
+Horizon Heavy Haulage LLC,Billing,Sajaa Industrial Area,Sharjah,Sharjah,United Arab Emirates,+971 6 555 0116,accounts@horizon.example,1,,Supplier,Horizon Heavy Haulage LLC
+Sandstorm Industrial Gases LLC,Billing,Sharjah Industrial Area 6,Sharjah,Sharjah,United Arab Emirates,+971 6 555 0117,accounts@sandstorm.example,1,,Supplier,Sandstorm Industrial Gases LLC
+Burj Al Noor Contracting LLC,Billing,Business Bay,Dubai,Dubai,United Arab Emirates,+971 4 555 0310,projects@burj.example,1,1,Customer,Burj Al Noor Contracting LLC
+Sahara Industrial Parks Development LLC,Billing,Sharjah Airport Intl Free Zone,Sharjah,Sharjah,United Arab Emirates,+971 4 555 0311,projects@sahara.example,1,1,Customer,Sahara Industrial Parks Development LLC
+Emirate Municipal Projects Office (Demo),Billing,Khalifa Park District,Abu Dhabi,Abu Dhabi,United Arab Emirates,+971 4 555 0312,projects@emirate.example,1,1,Customer,Emirate Municipal Projects Office (Demo)
+Al Reef Logistics & Warehousing LLC,Billing,"ICAD 1, Mussafah",Abu Dhabi,Abu Dhabi,United Arab Emirates,+971 4 555 0313,projects@al.example,1,1,Customer,Al Reef Logistics & Warehousing LLC
+Gulf Horizon Petrochemical Services LLC,Billing,Ruwais Industrial Complex,Al Dhafra,Abu Dhabi,United Arab Emirates,+971 4 555 0314,projects@gulf.example,1,1,Customer,Gulf Horizon Petrochemical Services LLC
+Crescent Agro Processing FZC,Billing,RAKEZ Al Ghail,Ras Al Khaimah,Ras Al Khaimah,United Arab Emirates,+971 4 555 0315,projects@crescent.example,1,1,Customer,Crescent Agro Processing FZC
+Northern Emirates Steel Erectors LLC,Billing,Al Jurf Industrial 2,Ajman,Ajman,United Arab Emirates,+971 4 555 0316,projects@northern.example,1,1,Customer,Northern Emirates Steel Erectors LLC
+Dune Cold Storage LLC,Billing,Fujairah Free Zone,Fujairah,Fujairah,United Arab Emirates,+971 4 555 0317,projects@dune.example,1,1,Customer,Dune Cold Storage LLC
+Marina Gate Infrastructure Projects LLC,Billing,Dubai Investment Park 1,Dubai,Dubai,United Arab Emirates,+971 4 555 0318,projects@marina.example,1,1,Customer,Marina Gate Infrastructure Projects LLC
+Al Batinah Steel Works SAOC,Billing,"Sohar Industrial Estate, Sohar",Oman,,Oman,+968 2555 0311,projects@al.example,1,1,Customer,Al Batinah Steel Works SAOC

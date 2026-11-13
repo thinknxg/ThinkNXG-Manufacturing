@@ -1,0 +1,11 @@
+﻿supplier,transaction_date,schedule_date,company,currency,conversion_rate,buying_price_list,price_list_currency,plc_conversion_rate,naming_series,taxes_and_charges,items.item_code,items.qty,items.rate,items.uom,items.schedule_date,items.warehouse,taxes.charge_type,taxes.account_head,taxes.description,taxes.rate,taxes.cost_center,taxes.category,taxes.add_deduct_tax
+Falcon Steel Trading LLC,2026-11-05,2026-11-24,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,PUR-ORD-.YYYY.-,UAE VAT 5% - KSSB,RM-HB-300,20000,3.35,Kg,2026-11-24,Steel Yard - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB,Total,Add
+,,,,,,,,,,,RM-IPE-200,8000,3.3,Kg,2026-11-24,Steel Yard - KSSB,,,,,,,
+,,,,,,,,,,,RM-UC-203,6000,3.4,Kg,2026-11-24,Steel Yard - KSSB,,,,,,,
+,,,,,,,,,,,RM-PL-10,5000,3.15,Kg,2026-11-24,Steel Yard - KSSB,,,,,,,
+Desert Rose Fasteners LLC,2026-11-06,2026-11-20,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,PUR-ORD-.YYYY.-,UAE VAT 5% - KSSB,RM-BOLT-M20,1200,3.8,Nos,2026-11-20,Stores - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB,Total,Add
+,,,,,,,,,,,RM-ANCH-M24,300,14.5,Nos,2026-11-20,Stores - KSSB,,,,,,,
+Oasis Protective Coatings LLC,2026-11-06,2026-11-20,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,PUR-ORD-.YYYY.-,UAE VAT 5% - KSSB,RM-PRIMER-ZP,500,22,Litre,2026-11-20,Stores - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB,Total,Add
+,,,,,,,,,,,RM-EPOXY-INT,300,31,Litre,2026-11-20,Stores - KSSB,,,,,,,
+Emirates Coil & Sheet Industries FZE,2026-11-09,2026-11-27,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,PUR-ORD-.YYYY.-,UAE VAT 5% - KSSB,RM-ZP-200,2000,20.9,Meter,2026-11-27,Steel Yard - KSSB,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB,Total,Add
+Al Mirage Galvanizing & Metal Treatment LLC,2026-11-10,2026-12-05,KREATAO Structural Steel & Building Systems LLC,AED,1,Standard Buying,AED,1,PUR-ORD-.YYYY.-,UAE VAT 5% - KSSB,SRV-GALV,1500,1.45,Kg,2026-12-05,,On Net Total,VAT 5% - KSSB,VAT 5%,5,Main - KSSB,Total,Add
